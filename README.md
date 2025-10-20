@@ -50,13 +50,12 @@ The repository showcases the overview, visuals, and technical stack, but the sou
 
 ## 💡 Future Plans
 
-Implement AR gameplay mode using AR Foundation.
+- Implement AR gameplay mode using AR Foundation.
 
-Add more vocabulary sets and progress tracking.
+- Add more vocabulary sets and progress tracking.
 
-Optimize for iOS.
+- Export for iOS.
 
 ## 👩‍💻 Developer
 
-Created by Samanta Michel
-Game Designer · Unity Developer · AR Enthusiast
+Created by Samanta Michel (Unity Developer · AR/VR/XR · UX/UI Enthusiast)
