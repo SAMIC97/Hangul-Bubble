@@ -48,12 +48,10 @@ The repository showcases the overview, visuals, and technical stack, but the sou
 
 ## 📸 Screenshots & Preview
 
-![Home screen](https://github.com/user-attachments/assets/e096871b-ffe1-4700-9f6a-fc3421f758ab)
-![Correct word message](https://github.com/user-attachments/assets/4491bdd5-34fe-4e3f-9c9d-dd1b0a417608)
-![Level selection menu](https://github.com/user-attachments/assets/5141cbca-2b8c-49be-9812-bb67d7fa7c4b)
-![Game screen](https://github.com/user-attachments/assets/fac6fbf8-10e2-4057-8449-01b9d7c14b8e)
-![Game complete](https://github.com/user-attachments/assets/2117646b-383b-4ea8-b752-8a66806a8bd5)
-
+<img src="https://github.com/user-attachments/assets/e096871b-ffe1-4700-9f6a-fc3421f758ab" alt="Home screen" width="200"/>
+<img src="https://github.com/user-attachments/assets/5141cbca-2b8c-49be-9812-bb67d7fa7c4b" alt="Level selection menu" width="200"/>
+<img src="https://github.com/user-attachments/assets/fac6fbf8-10e2-4057-8449-01b9d7c14b8e" alt="Game screen" width="200"/>
+<img src="https://github.com/user-attachments/assets/2117646b-383b-4ea8-b752-8a66806a8bd5" alt="Level complete" width="200"/>
 
 ## 💡 Future Plans
 
