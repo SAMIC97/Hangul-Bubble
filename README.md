@@ -53,6 +53,9 @@ The repository showcases the overview, visuals, and technical stack, but the sou
 <img src="https://github.com/user-attachments/assets/fac6fbf8-10e2-4057-8449-01b9d7c14b8e" alt="Game screen" width="200"/>
 <img src="https://github.com/user-attachments/assets/2117646b-383b-4ea8-b752-8a66806a8bd5" alt="Level complete" width="200"/>
 
+🎥 Want to see Hangul Bubble in action?
+Here’s a short gameplay demo: [https://lnkd.in/giXkK9UM]
+
 ## 💡 Future Plans
 
 - Implement AR gameplay mode using AR Foundation.
